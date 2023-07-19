@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Allow: /cabañas
+Allow: /menu
+Disallow: /googleed7525aaa0b0aae8.html
+Disallow: /admin
+Disallow: /admin/registro
+Disallow: /admin/addInscripcion
+Disallow: /admin/inscripciones
+Disallow: /admin/showInscripciones
+Disallow: /admin/editInscripcion
+Disallow: /admin/deleteInscripcion

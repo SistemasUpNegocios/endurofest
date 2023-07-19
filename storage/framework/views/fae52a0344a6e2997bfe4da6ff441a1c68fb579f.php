@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layouts.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home2/endurofe/mexiquillazo/resources/views/layouts/show.blade.php ENDPATH**/ ?>
